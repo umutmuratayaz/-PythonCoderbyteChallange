@@ -22,5 +22,4 @@ def DifferentCases(strParam):
 
 strParam ="-cats And*Dogs-are*AWesome"
 
-# keep this function cali here 
 print(DifferentCases(strParam))
